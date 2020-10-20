@@ -1,4 +1,5 @@
-Kobe Friswell s3783258
+Kobe Friswell
+
 OS Assignment 2
 
 To compile all programs run:
